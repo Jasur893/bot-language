@@ -1,0 +1,67 @@
+{
+    "update_id": 989625562,
+    "callback_query": {
+        "id": "4632589403987642400",
+        "from": {
+            "id": 1078608772,
+            "is_bot": false,
+            "first_name": "Jasur",
+            "username": "jasur3389",
+            "language_code": "ru"
+        },
+        "message": {
+            "message_id": 7,
+            "from": {
+                "id": 6915464334,
+                "is_bot": true,
+                "first_name": "My Bot",
+                "username": "my_bot_tuzel_bot"
+            },
+            "chat": {
+                "id": 1078608772,
+                "first_name": "Jasur",
+                "username": "jasur3389",
+                "type": "private"
+            },
+            "date": 1712221457,
+            "text": "\u041f\u043e\u0436\u0430\u043b\u0443\u0439\u0441\u0442\u0430, \u0432\u044b\u0431\u0435\u0440\u0438\u0442\u0435 \u044f\u0437\u044b\u043a ! \ud83d\udc47",
+            "entities": [
+                {
+                    "offset": 0,
+                    "length": 30,
+                    "type": "pre"
+                }
+            ],
+            "reply_markup": {
+                "inline_keyboard": [
+                    [
+                        {
+                            "text": "O'zbekcha \ud83c\uddfa\ud83c\uddff",
+                            "callback_data": "lang||uz"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "\u0420\u0443\u0441\u0441\u043a\u0438\u0439 \ud83c\uddf7\ud83c\uddfa",
+                            "callback_data": "lang||ru"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "English \ud83c\uddf1\ud83c\uddf7",
+                            "callback_data": "lang||en"
+                        }
+                    ],
+                    [
+                        {
+                            "text": "French",
+                            "callback_data": "lang||fr"
+                        }
+                    ]
+                ]
+            }
+        },
+        "chat_instance": "7718935178153160440",
+        "data": "lang||uz"
+    }
+}
